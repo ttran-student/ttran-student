@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: https://github.com/ttran-student/ttran-student/blob/main/img/vacay/vacay-square.png
 title: "Cotton"
 date: 2014
 published: true
