@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![cavay](https://github.com/ttran-student/ttran-student/blob/main/img/vacay/vacay-square.png?raw=true)
+image: ![cavay](../img/vacay/vacay-square.png)
 title: "Vacay"
 date: 2015
 published: true
