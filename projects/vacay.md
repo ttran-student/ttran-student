@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "/blob/main/img/vacay/vacay-square.png"
+image: "img/vacay/vacay-square.png"
 title: "Vacay"
 date: 2015
 published: true
