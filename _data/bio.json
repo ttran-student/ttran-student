@@ -34,11 +34,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Oregon State University, Corvallis, OR",
+      "area": "Electrical and Computer Engineering, 2010",
+      "studyType": "Ph.D.",
+      "startDate": "2006-09-01",
+      "_comment": " "endDate": "Present" ",
       "courses": [
       ]
     }
